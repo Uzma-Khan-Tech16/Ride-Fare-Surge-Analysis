@@ -109,8 +109,5 @@ Some of the insights obtained from this analysis:
 Uzma Khan
 
 ## Contact
-
-Uzma Khan
-
 - GitHub: https://github.com/Uzma-Khan-Tech16
 - LinkedIn: (Add your LinkedIn profile link)
