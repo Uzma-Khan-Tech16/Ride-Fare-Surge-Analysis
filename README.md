@@ -67,15 +67,15 @@ Ride_Fare_Surge_Analysis/
 
 1. Executive Business Overview
 
-![Executive Dashboard](images/page1_dashboard.png)
+![Executive Dashboard](screenshots/page1_dashboard.png)
 
 2. Operations & Surge Analysis
 
-![Operations Dashboard](images/page2_dashboard.png)
+![Operations Dashboard](screenshots/page2_dashboard.png)
 
 3. Customer & Cancellation Insights
 
-![Customer Dashboard](images/page3_dashboard.png)
+![Customer Dashboard](screenshots/page3_dashboard.png)
 
 ## Business Insights
 
