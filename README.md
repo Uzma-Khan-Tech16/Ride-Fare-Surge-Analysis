@@ -46,9 +46,9 @@ Ride_Fare_Surge_Analysis/
 │   └── Ride_Fare_Surge_EDA.ipynb
 │
 ├── screenshots/
-│   ├── Page1.png
-│   ├── Page2.png
-│   └── Page3.png
+│   ├── page1_dashboard.png
+│   ├── page2_dashboard.png
+│   └── page3_dashboard.png
 │
 └── README.md
 
