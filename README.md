@@ -79,6 +79,7 @@ Ride_Fare_Surge_Analysis/
 
 ![Customer Dashboard](screenshots/page3_dashboard.png)
 
+
 ## Business Insights
 
 Some of the insights obtained from this analysis:
@@ -90,6 +91,7 @@ Some of the insights obtained from this analysis:
 - Weekends generate higher booking revenue compared to weekdays.
 - UPI is the most preferred payment method.
 - Cancellation reasons help identify operational improvement areas.
+
 
 ## Future Improvements
 
@@ -109,5 +111,6 @@ Some of the insights obtained from this analysis:
 Uzma Khan
 
 ## Contact
+
 - GitHub: https://github.com/Uzma-Khan-Tech16
 - LinkedIn: (Add your LinkedIn profile link)
