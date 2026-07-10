@@ -113,5 +113,4 @@ Uzma Khan
 Uzma Khan
 
 - GitHub: https://github.com/Uzma-Khan-Tech16
-- 
 - LinkedIn: (Add your LinkedIn profile link)
