@@ -1,5 +1,7 @@
 # 🚖 Ride Fare Surge Analysis
 
+An end-to-end Data Analytics project built using Python, Jupyter Notebook, and Power BI.
+
 # About the Project
 
 This project analyzes ride booking data to understand booking trends, fare patterns, surge pricing, customer ratings, cancellations, and overall business performance.
