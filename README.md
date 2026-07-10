@@ -97,6 +97,13 @@ Some of the insights obtained from this analysis:
 - Add real-time data integration.
 - Publish the dashboard using the Power BI Service.
 - Create automated reports using Power BI.
+  
+
+## 📄 Project Documents
+
+- 📑 [Insight Summary (Markdown)](docs/Insight_Summary.md)
+- 📄 [Insight Summary (PDF)](docs/Insight_Summary.pdf)
+  
 
 ## Author
 Uzma Khan
