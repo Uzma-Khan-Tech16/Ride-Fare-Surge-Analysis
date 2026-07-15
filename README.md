@@ -35,6 +35,7 @@ The goal is to convert raw ride booking data into meaningful business insights t
 
 ## Project Structure
 
+```text
 Ride_Fare_Surge_Analysis/
 │
 ├── dashboard/
@@ -53,6 +54,7 @@ Ride_Fare_Surge_Analysis/
 │   └── page3_dashboard.png
 │
 └── README.md
+```
 
 ## Key Features
 
